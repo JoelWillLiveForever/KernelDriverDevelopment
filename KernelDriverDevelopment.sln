@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyFirstDriver", "MyFirstDriver\MyFirstDriver.vcxproj", "{2FC75A2E-4F10-4A1A-A513-33FB18BF4CEA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DriverHelloWorld", "DriverHelloWorld\DriverHelloWorld.vcxproj", "{CA76218B-66E6-42FE-9170-C9B978D69193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -41,6 +43,30 @@ Global
 		{2FC75A2E-4F10-4A1A-A513-33FB18BF4CEA}.Release|x86.ActiveCfg = Release|Win32
 		{2FC75A2E-4F10-4A1A-A513-33FB18BF4CEA}.Release|x86.Build.0 = Release|Win32
 		{2FC75A2E-4F10-4A1A-A513-33FB18BF4CEA}.Release|x86.Deploy.0 = Release|Win32
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|ARM.Build.0 = Debug|ARM
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|x64.ActiveCfg = Debug|x64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|x64.Build.0 = Debug|x64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|x64.Deploy.0 = Debug|x64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|x86.Build.0 = Debug|Win32
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Debug|x86.Deploy.0 = Debug|Win32
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|ARM.ActiveCfg = Release|ARM
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|ARM.Build.0 = Release|ARM
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|ARM.Deploy.0 = Release|ARM
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|ARM64.Build.0 = Release|ARM64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|ARM64.Deploy.0 = Release|ARM64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|x64.ActiveCfg = Release|x64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|x64.Build.0 = Release|x64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|x64.Deploy.0 = Release|x64
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|x86.ActiveCfg = Release|Win32
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|x86.Build.0 = Release|Win32
+		{CA76218B-66E6-42FE-9170-C9B978D69193}.Release|x86.Deploy.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
